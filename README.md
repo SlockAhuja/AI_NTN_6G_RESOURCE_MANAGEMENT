@@ -1,23 +1,23 @@
-<<<<<<< HEAD
-# AI_NTN_6G_Resource_Management
+# AI NTN 6G Resource Management
 
-Project scaffold for resource management simulations and models.
+This repository contains simulation and machine learning models for **AI-based resource allocation in Non-Terrestrial Networks (NTN)** for future **6G satellite-terrestrial communication systems**.
 
-Structure:
-- data/: datasets
-- models/: trained models and checkpoints
-- environment/: environment configs and scripts
-- simulations/: simulation scripts and inputs
-- results/: numeric outputs
-- figures/: plots and visualizations
-- paper/: manuscript and figures
+## Features
 
-Run:
+* Dataset generation for NTN network scenarios
+* AI model training for resource allocation
+* Simulation and visualization of network performance
+* Graph and animation tools for results analysis
 
-```powershell
-python main.py
-```
-=======
-# AI_NTN_6G_RESOURCE_MANAGEMENT
-AI-based resource allocation and simulation framework for Non-Terrestrial Networks (NTN) in 6G. Includes dataset generation, reinforcement learning training, and visualization of satellite-terrestrial resource management.
->>>>>>> 1cd0fd2b4f2080879b2fd1473be60274acf6eeeb
+## Project Structure
+
+* `main.py` – Main simulation script
+* `train_ai.py` – AI model training
+* `generate_dataset.py` – Dataset generation
+* `graph.py` – Performance visualization
+* `ntn_dataset.csv` – Training dataset
+
+## Authors
+
+* **Slock Ahuja** – Developer and Research Contributor
+* **Dr. Praveen Kumar Sharma** – Research Supervisor / Project Mentor
